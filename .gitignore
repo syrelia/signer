@@ -1,0 +1,6 @@
+.idea
+vendor
+test/client.php
+tests/dummytest.php
+tests/jwt.json
+tests/server.php
